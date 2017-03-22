@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Registro_de_Personas</string>
+    <string name="datos">Ingrese Sus Datos</string>
+    <string name="primernombre">Primer_Nombre</string>
+    <string name="segundonombre">Segundo_Nombre</string>
+    <string name="apellido1">Primer_Apellido</string>
+    <string name="apellido2">Segundo_Apellido</string>
+    <string name="Sexo">Sexo</string>
 </resources>
