@@ -88,21 +88,18 @@
                 android:text="Name" />
 
             <EditText
-                android:id="@+id/editText5"
+                android:id="@+id/txtedad"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
+                android:hint="@string/edad"
                 android:inputType="textPersonName"
                 android:text="Name" />
 
-            <EditText
-                android:id="@+id/txtsexo"
+            <Spinner
+                android:id="@+id/cmdGenero"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:hint="@string/Sexo"
-                android:inputType="textPersonName"
-                android:text="Name" />
+                android:layout_height="wrap_content" />
 
         </LinearLayout>
     </LinearLayout>
